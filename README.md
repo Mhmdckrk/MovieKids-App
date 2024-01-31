@@ -6,8 +6,6 @@
 1. Screenshots
 2. Description
 3. Dependecies & APIs
-4. How to Use
-5. What I Learned?
 
 ## 1. Screenshots
 ![movie2](https://github.com/Mhmdckrk/MovieKids-App/assets/142578068/fbd3c69a-b2ab-4881-994d-60e87539af2e)
