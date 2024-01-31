@@ -1,6 +1,6 @@
 # MovieKids App
 
- Netflix Clone Project with **TMDB API** and **Youtube API**.
+ Netflix Clone Project for Kids with **TMDB API** and **Youtube API**.
 
 ## Table of Contents
 1. Screenshots
